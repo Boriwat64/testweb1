@@ -7,5 +7,3 @@ class Song {
 
 const mySong = new Song("Bohemian Rhapsody", "Queen");
 console.log(mySong.title);
-git config --global user.email "s6406021620131@email.kmutnb.ac.th"
->>   git config --global user.name "Boriwat6"
