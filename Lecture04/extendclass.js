@@ -3,6 +3,7 @@ class Media {
     constructor(info) {
         this.publishDate = info.publishDate;
         this.name = info.name;
+        
     }
 }
  

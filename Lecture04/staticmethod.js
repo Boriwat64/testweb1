@@ -15,6 +15,10 @@ class Dog {
 
 const myDog = new Dog("Buster");
 myDog.introduce();
+myDog.bark();
  
+const my2Dog = new Dog("Buster");
+my2Dog.introduce
 //Calling the static method
 Dog.bark();
+//Dog.introduce();

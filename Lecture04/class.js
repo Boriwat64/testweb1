@@ -4,9 +4,10 @@ class Song {
         this.author;
     }
 
-play() {
-    console.log("Song playing!");
+    play() {
+        console.log("Song playing!");
     }
 }
 const mySong = new Song();
 mySong.play();
+console.log(mySong.title)
