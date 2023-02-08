@@ -1,12 +1,12 @@
 function who() {
     return new Promise((resolve) => {
         setTimeout(() => {
-            resolve(" ");
+            resolve("God");
         }, 200);
     });
 }
 
-function who() {
+function what() {
     return new Promise((resolve) => {
         setTimeout(() => {
             resolve("lurks");
@@ -14,7 +14,7 @@ function who() {
     });
 }
 
-function who() {
+function where() {
     return new Promise((resolve) => {
         setTimeout(() => {
             resolve("in the shadows");
@@ -30,5 +30,5 @@ async function msg(){
     console.log(`${a} ${b} ${c}`);
 }
 console.log('We are looking for:')
-msg(); //lurks in the shadows <-- after 1
-console.log(Hello)
+msg(); //lurks in the shadows <-- after 1 second
+console.log('Hello')
