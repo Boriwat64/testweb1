@@ -13,3 +13,9 @@ const numberSplit = (num) => {
   console.log(numberSplit(10));
   console.log(numberSplit(11));
   console.log(numberSplit(-9));
+
+//   Boriwat64
+//   s6406021620131@email.kmutnb.ac.th
+//   git config --global user.email "6406021620131@fitm.kmutnb.ac.th"
+
+// git config --global user.name "Boriwat64"
